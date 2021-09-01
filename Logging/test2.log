@@ -1,0 +1,5 @@
+08/31/2021 04:01:27 PM: DEBUG: This is a DEBUG message
+08/31/2021 04:01:27 PM: INFO: This is a INFO message
+08/31/2021 04:01:27 PM: WARNING: This is a WARNING message
+08/31/2021 04:01:27 PM: ERROR: This is a ERROR message
+08/31/2021 04:01:27 PM: CRITICAL: This is a CRITICAL message

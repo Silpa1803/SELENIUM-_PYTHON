@@ -1,0 +1,8 @@
+WARNING:root:This is a WARNING message
+ERROR:root:This is a ERROR message
+CRITICAL:root:This is a CRITICAL message
+DEBUG:root:This is a DEBUG message
+INFO:root:This is a INFO message
+WARNING:root:This is a WARNING message
+ERROR:root:This is a ERROR message
+CRITICAL:root:This is a CRITICAL message
